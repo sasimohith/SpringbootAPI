@@ -1,0 +1,31 @@
+# OS
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Maven / Java
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+*.iws
+
+# Env / local secrets
+.env
+.env.*
+!.env.example
+
+# Spring
+HELP.md
